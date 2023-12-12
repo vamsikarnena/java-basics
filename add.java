@@ -4,7 +4,9 @@ class Sum {
     
     int first = 10;
     int second = 20;
-    int sum = first + second;
+    int third = 30;
+    int fourth = 40; 
+    int sum = first + second + third + fourth;
     System.out.println(+ sum);
   }
 }
