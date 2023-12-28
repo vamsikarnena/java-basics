@@ -4,7 +4,7 @@ class Vamsi{
 	public int wheight = 67;
 
 		public static void main(String[] args) {
-			Vamsi vamsi = new vamsi();
-			System.out.println (vamsi.color);
+			Vamsi vamsi = new Vamsi();
+			System.out.println (vamsi.height);
 		}
 }
