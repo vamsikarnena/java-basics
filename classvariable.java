@@ -3,7 +3,7 @@ public class Student {
 
 	public static void main(String[] args) {
 		Student student = new Student();            // static variable in java these are the globle variable in java
-		System.out.println(student id);
+		System.out.println(student.id);
 
 	}
 }
