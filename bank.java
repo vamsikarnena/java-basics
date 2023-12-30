@@ -26,7 +26,7 @@ public class Bank {
 		Bank bank = new Bank();
 		bank.deposit(500);
 		System.out.println("balance after deposit :"+bank.getcurrentBalance());
-        bank.getBalance();
+        bank.getcurrentBalance();
         withdrawn(300);
         System.out.println("balance after withdrawn :" +currentBalance);
 
