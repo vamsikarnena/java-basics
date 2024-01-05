@@ -4,10 +4,10 @@ public class Array {
         j[0] = 1;
         j[1] = 46;
         j[3] = 77;
+        
         int sum = 0;
-        int sum = sum+j[i];
         for(i=0; i<j.length; i++) {
-            int sum = sum+j[i];
+            sum = sum+j[i];
             System.out.println("sum of the array");
 
         }   
