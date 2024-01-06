@@ -4,7 +4,7 @@ public class Main {
        // for(i=0;i<=20;i++) {
        //     System.out.println("the values are");
         
-        //   for(i=0;i<=20) {
+        //   for(i=0;i<=20) {                                //different types of for loop in java
             //  System.out.println("the values are");
           //   i++;
 
