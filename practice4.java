@@ -7,7 +7,9 @@ public class Array {
         System.out.println(j[3]);
 
         for(i=0; i<j.len; i++) {
+
             System.out.println(j[i]);
+            
         }
 
     }
