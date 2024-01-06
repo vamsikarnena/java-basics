@@ -6,9 +6,11 @@ public class Array {
         j[3] = 77;
         System.out.println(j[3]);
 
-        for(i=0; i<j.len; i++) {
+        for(i=0; i<j.length; i++) {
+            
             System.out.println(j[i]);
         }
+
         int sum = j[0]+j[1]+j[3]+j[4]+j[5];
             System.out.println(sum);
 
