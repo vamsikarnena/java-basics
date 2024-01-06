@@ -7,6 +7,7 @@ public class Array {
         
         int sum = 0;
         for(i=0; i<j.length; i++) {
+            
             sum = sum+j[i];
             System.out.println("sum of the array");
 
