@@ -15,7 +15,9 @@ public class MultidimentionalArray {
         for(int i=0; i<a.length; i++) {
             int [] b = a[i];
               for(int j=0; j<b.length; j++) {
+
               System.out.print(b[j] + " ");
+              
               }    
               System.out.println();          
         }
