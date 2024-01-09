@@ -5,7 +5,6 @@ class Main {
     Scanner myObj = new Scanner(System.in);
     String userName;
     
-
     System.out.println("Enter username"); 
     userName = myObj.nextLine();   
        
