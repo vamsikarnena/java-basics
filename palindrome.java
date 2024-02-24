@@ -10,10 +10,14 @@ public class Main {
     }
 
     if (str.toLowerCase().equals(reverseStr.toLowerCase())) {
+
       System.out.println(str + " is a Palindrome String.");
+
     }
     else {
+
       System.out.println(str + " is not a Palindrome String.");
+      
     }
   }
 }
